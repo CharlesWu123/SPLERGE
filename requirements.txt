@@ -1,4 +1,4 @@
 PyMuPDF==1.16.11
 torch==1.1.0
 numpy==1.15.3
-opencv_python==3.4.3.18
+opencv_python==3.4.7.28
